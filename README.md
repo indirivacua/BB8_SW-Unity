@@ -4,7 +4,7 @@ Was one of the first test I did when I started to learn this engine.
 
 [Play it!](https://indirivacua.github.io/BB8_SW-Unity/)
 
-Controls
--------- | -----
-W,A,S,D | Move
-Space | Jump
+| Controls  |   |
+| ------------- | ------------- |
+| W,A,S,D  | Move  |
+| Space  | Jump  |
